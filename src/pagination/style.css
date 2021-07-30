@@ -1,0 +1,18 @@
+.nav-pagination {
+    margin-top: -7%;
+}
+.ul-pagination {
+    list-style: none;
+    margin-left: 40%;
+    margin-top: 10%;
+    width: 45%;
+}
+.li-pagination {
+    display: inline;
+    font-size: 135%;
+    margin-left: 1%;
+}
+.a-pagination {
+    text-decoration: none;
+    color: rgb(230 82 49);
+}
